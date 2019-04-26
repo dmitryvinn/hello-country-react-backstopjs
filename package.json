@@ -1,0 +1,10 @@
+{
+  "name": "hello-world-react-backstopjs",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "backstop init",
+    "approve": "backstop approve --config=src/tests/backstop.json",
+    "test": "backstop test --config=src/tests/backstop.json"
+  },
+  "author": "Dmitry Vinnik"
+}
