@@ -3,7 +3,7 @@
 ## Overview
 
 This project is an example of Visual Testing with [BackstopJs](https://garris.github.io/BackstopJS/).
-In this example, we focus on testing of the demo app built with React ([Hello World](https://github.com/dmitryvinn/hello-country-react-live-demo)). 
+In this example, we focus on testing of the demo app built with React ([Hello Country](https://github.com/dmitryvinn/hello-country-react-live-demo)). 
 
 To start using BackstopJs, install it using npm:
 ```sh
